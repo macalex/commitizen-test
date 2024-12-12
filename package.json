@@ -1,9 +1,9 @@
 {
   "name": "commitizen-test",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "How commitizen works?",
   "main": "index.js",
   "repository": "git@github.com:macalex/commitizen-test.git",
-  "author": "Alex Székely <mail.szekelyalex@gmail.com>",
+  "author": "Alex Sze\u0301kely <mail.szekelyalex@gmail.com>",
   "license": "MIT"
 }
