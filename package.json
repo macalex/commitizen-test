@@ -4,6 +4,6 @@
   "description": "How commitizen works?",
   "main": "index.js",
   "repository": "git@github.com:macalex/commitizen-test.git",
-  "author": "Alex Sze\u0301kely <mail.szekelyalex@gmail.com>",
+  "author": "Alex Székely <mail.szekelyalex@gmail.com>",
   "license": "MIT"
 }
